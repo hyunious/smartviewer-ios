@@ -1,1 +1,1 @@
-# smartviewr-ios
+# smartviewer app for ios 
