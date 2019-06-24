@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/hyunious/smartviewer-ios/Smart Viewer.ipa</string>
+					<string>https://hyunious.github.io/smartviewer-ios/Smart Viewer.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/hyunious/smartviewer-ios/iOS_58.png</string>
+					<string>https://hyunious.github.io/smartviewer-ios/iOS_58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/hyunious/smartviewer-ios/iOS_76@2x.png</string>
+					<string>https://hyunious.github.io/smartviewer-ios/iOS_76@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
